@@ -1,0 +1,5 @@
+push.md
+push_practicals.sh
+.temp_store/
+__pycache__/
+*.pyc
